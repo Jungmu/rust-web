@@ -1,0 +1,1 @@
+SELECT $table_fields FROM public.admin where id = $1 and password = $2;
